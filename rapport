@@ -1,0 +1,78 @@
+Projekt Del 3
+
+Textual analysis
+
+
+Kandidater
+
+Substantiv
+biljett, månadskort, pris, passagerarlista, namn, åldersgrupp
+
+Verb
+sälja, köpa, mata in, skriva ut 
+
+Aktörer
+konduktör, passagerare
+
+
+Faktiska objekt
+Passagerare 
+Motivering, måste skapas en ny passagerare varje gång en biljett köps
+
+Faktiska metoder
+pris (bytt namn), köpa (bytt namn)
+
+Faktiska variabler
+namn, åldersgrupp
+
+
+Objektorientering
+
+Vi gjorde programmet objektorienterat genom att göra varje ny passagerare till ett objekt. Vi diskuterade strukturen av programmet innan implementering med hjälp av UML och textual analysis.
+
+
+Arbetsfördelning
+
+Vi har gjort näst intill allting tillsammans via teams och skärmdelning så att alla skriver kod och bidrar. Metoder och klasser delade vi inte upp utan alla hade gemensamt ansvar vilket också gjorde att alla hade förståelse för vad koden gör.
+
+
+Arbetet i gruppen
+
+Grupparbetet fungerade i stora drag mycket bra. Blev betydligt lättare att komma på lösningar eftersom fyra personer kunde googla samtidigt och sedan diskutera det tillsammans. Vi är alla olika bra på olika saker så det hjälpte även med andra perspektiv än sitt egna. Ett litet problem hade varit att planera en tid när alla kan sitta och jobba tillsammans men bortsett från det har det gått friktionsfritt.
+
+
+Loggbok
+
+29/10
+Gjort en konceptuell analys och påbörjat UML-diagrammet.
+
+2/11
+Skrivit klart UML-diagrammet och diskuterat samt tittat på framtida kod. 
+
+3/11
+Finslipat UML-diagrammet och börjat koda en del. 
+
+4/11
+Skrev klart vår getPrice-metod
+
+5/11
+Delade upp vår metod i mindre bitar och blev nästan klara med Passenger-klassen.
+
+6/11
+Gjorde om main och lade in switch, while och if för att det skulle loopa korrekt.
+Ändrade en av våra metoders access modifiers från private till public efter feedback från produktägaren.
+Ändrade namn på metoder från getXXX eftersom vi inte använde oss av getters på de metoderna, efter feedback från produktägaren.
+Korrläste dokumentet, fixade småfel, stavfel och fixade till ordningsföljden
+
+9/11
+Tog bort överflödig kod och fixade vårt sista problem med felhanteringen.
+
+10/11
+Ändrat koden till mer objektorienterad efter feedback från produktägaren
+Kommenterat hela programmet.
+
+11/11
+Redigerat UML
+Skapat powerpoint inför redovisningen
+Delat upp redovisningen
+Ändrade ordningen i Passenger
